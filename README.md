@@ -120,6 +120,7 @@ If you find DealMaTe useful in your research, please cite:
 ## Acknowledgements
 
 This work builds upon [FLUX.1](https://github.com/black-forest-labs/flux), [EasyControl](https://github.com/Xiaojiu-z/EasyControl), and [Marigold](https://github.com/prs-eth/Marigold). We thank their authors for making their code publicly available. 
+
 ---
 
 ## License
