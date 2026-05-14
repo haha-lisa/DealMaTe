@@ -5,10 +5,8 @@
 </p>
 
 > **DealMaTe: Multi-Dimensional Material Transfer via Diffusion Transformer**
-
-> Nisha Huang, Yizhou Lin, Jie Guo, Xiu Li, Tong-Yee Lee, Zitong Yu
-
-> *ACM Transactions on Graphics (TOG), 2026*
+<!-- > Nisha Huang, Yizhou Lin, Jie Guo, Xiu Li, Tong-Yee Lee, Zitong Yu
+> *ACM Transactions on Graphics (TOG), 2026* -->
 
 [![Paper](https://img.shields.io/badge/Paper-TOG%202026-blue)](https://doi.org/10.1145/nnnnnnn.nnnnnnn)
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-red)]()
