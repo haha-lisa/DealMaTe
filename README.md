@@ -88,28 +88,7 @@ The script saves:
 - `outputs/result.png` — the final composited result (material transferred onto the object).
 - `outputs/result_generated.png` — the raw 1024×1024 generated image before compositing.
 
----
 
-## Repository Structure
-
-```
-DealMaTe/
-├── inference.py          # Main inference script
-├── requirements.txt
-├── LICENSE
-├── src/
-│   ├── pipeline.py           # Custom FLUX pipeline with spatial conditioning
-│   ├── pipeline_texture.py   # Texture-only variant
-│   ├── transformer_flux.py   # Modified FLUX transformer
-│   ├── layers_cache.py       # Multi-LoRA attention processors with KV caching
-│   └── lora_helper.py        # LoRA loading utilities
-├── lora/
-│   ├── depth.safetensors     # (download separately)
-│   ├── normal.safetensors    # (download separately)
-│   └── lighting.safetensors  # (download separately)
-└── examples/
-    └── inputs/               # Sample input images
-```
 
 ---
 
@@ -125,14 +104,21 @@ If you find DealMaTe useful in your research, please cite:
   year      = {2026},
   publisher = {ACM}
 }
+
+@inproceedings{huang2025mate,
+  title={MaTe: Images Are All You Need for Material Transfer via Diffusion Transformer},
+  author={Huang, Nisha and Liu, Henglin and Lin, Yizhou and Huang, Kaer and Chen, Chubin and Guo, Jie and Lee, Tong-yee and Li, Xiu},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={15117--15126},
+  year={2025}
+}
 ```
 
 ---
 
 ## Acknowledgements
 
-This work builds upon [FLUX.1](https://github.com/black-forest-labs/flux), [EasyControl](https://github.com/Xiaojiu-z/EasyControl), and [Marigold](https://github.com/prs-eth/Marigold). We thank their authors for making their code publicly available. This paper extends our conference version **MaTe** (ICCV 2025).
-
+This work builds upon [FLUX.1](https://github.com/black-forest-labs/flux), [EasyControl](https://github.com/Xiaojiu-z/EasyControl), and [Marigold](https://github.com/prs-eth/Marigold). We thank their authors for making their code publicly available. 
 ---
 
 ## License
