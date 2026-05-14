@@ -4,7 +4,7 @@
   <img src="assets/teaser.jpg" alt="DealMaTe teaser" width="900"/>
 </p>
 
-> **DealMaTe: Multi-Dimensional Material Transfer via Diffusion Transformer**
+<!-- > **DealMaTe: Multi-Dimensional Material Transfer via Diffusion Transformer** -->
 <!-- > Nisha Huang, Yizhou Lin, Jie Guo, Xiu Li, Tong-Yee Lee, Zitong Yu
 > *ACM Transactions on Graphics (TOG), 2026* -->
 
