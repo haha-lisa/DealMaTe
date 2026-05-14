@@ -104,7 +104,8 @@ If you find DealMaTe useful in your research, please cite:
   year      = {2026},
   publisher = {ACM}
 }
-
+```
+```bibtex
 @inproceedings{huang2025mate,
   title={MaTe: Images Are All You Need for Material Transfer via Diffusion Transformer},
   author={Huang, Nisha and Liu, Henglin and Lin, Yizhou and Huang, Kaer and Chen, Chubin and Guo, Jie and Lee, Tong-yee and Li, Xiu},
