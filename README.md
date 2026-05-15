@@ -47,7 +47,7 @@ Download the three pre-trained Shader LoRA weights and place them in the `lora/`
 | `lora/normal.safetensors` | Normal LoRA — captures surface curvature |
 | `lora/lighting.safetensors` | Lighting LoRA — models illumination direction and intensity |
 
-> **Download links:** [Hugging Face (coming soon)]()
+> **Download links:** [Hugging Face](https://huggingface.co/lisalisalisa/DealMaTe)
 
 The pipeline also requires the following base models from Hugging Face (downloaded automatically on first run):
 - [`black-forest-labs/FLUX.1-dev`](https://huggingface.co/black-forest-labs/FLUX.1-dev)
