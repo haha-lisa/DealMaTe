@@ -8,8 +8,8 @@
 <!-- > Nisha Huang, Yizhou Lin, Jie Guo, Xiu Li, Tong-Yee Lee, Zitong Yu
 > *ACM Transactions on Graphics (TOG), 2026* -->
 
-[![Paper](https://img.shields.io/badge/Paper-TOG%202026-blue)]()
-[![arXiv](https://img.shields.io/badge/arXiv%20soon-red)](https://arxiv.org/abs/2605.15681)
+[![Paper](https://img.shields.io/badge/Paper-TOG%202026-blue)](https://dl.acm.org/doi/abs/10.1145/3817061)
+[![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2605.15681)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
