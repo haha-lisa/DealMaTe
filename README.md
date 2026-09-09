@@ -10,7 +10,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-TOG%202026-blue)](https://dl.acm.org/doi/abs/10.1145/3817061)
 [![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2605.15681)
-[![Project Page](https://img.shields.io/badge/🌐_Project_Page-haha--lisa.github.io%2FDealMaTe-brightgreen)](DealMaTe)
+[![Project Page](https://img.shields.io/badge/🌐_Project_Page-DealMaTe-brightgreen)](https://haha-lisa.github.io/DealMaTe/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
