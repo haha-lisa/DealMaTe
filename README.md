@@ -1,5 +1,10 @@
 # DealMaTe: Multi-Dimensional Material Transfer via Diffusion Transformer
 
+[![Paper](https://img.shields.io/badge/Paper-TOG%202026-blue)](https://dl.acm.org/doi/abs/10.1145/3817061)
+[![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2605.15681)
+[![Project Page](https://img.shields.io/badge/🌐_Project_Page-DealMaTe-brightgreen)](https://haha-lisa.github.io/DealMaTe/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 <p align="center">
   <img src="assets/teaser.jpg" alt="DealMaTe teaser" width="900"/>
 </p>
@@ -8,10 +13,7 @@
 <!-- > Nisha Huang, Yizhou Lin, Jie Guo, Xiu Li, Tong-Yee Lee, Zitong Yu
 > *ACM Transactions on Graphics (TOG), 2026* -->
 
-[![Paper](https://img.shields.io/badge/Paper-TOG%202026-blue)](https://dl.acm.org/doi/abs/10.1145/3817061)
-[![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2605.15681)
-[![Project Page](https://img.shields.io/badge/🌐_Project_Page-DealMaTe-brightgreen)](https://haha-lisa.github.io/DealMaTe/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ---
 
